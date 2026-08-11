@@ -26,3 +26,4 @@ Ram - is temporay memory storage that makes information immediately accessible t
 - stored data is cleared when the computer powers off
 SSD - are solid state storage devices based on NAND flash memory technology, so they can store data even when the computer is powered down.
 
+# slabs_homework_day1
