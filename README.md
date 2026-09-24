@@ -1,3 +1,8 @@
+# Southern labs Institute of Technology
+# Tshepo Mamakoko
+# Homework Activity: Hardware,OS and Language Paradigms Portfolio
+# Instructor: Idah Khumalo
+
 Primary responsabilities of an Operating System
 
 An operating system is the most vital software running on a computer
